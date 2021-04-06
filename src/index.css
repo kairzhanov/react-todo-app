@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.type-1 {
+  background-color: aqua;
+}
+
+.task {
+  cursor: pointer;
+}
